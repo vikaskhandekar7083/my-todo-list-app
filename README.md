@@ -3,6 +3,7 @@ Advanced Todo List Application
 A feature-rich, responsive Todo List application built with vanilla JavaScript, HTML5, and CSS3. This application helps users manage their tasks efficiently with features like priority levels, dark mode, and local storage persistence.
 
 ✨ Features
+
 ➕ Add, edit, and delete tasks
 🎯 Set priority levels (Low, Medium, High)
 🔍 Search functionality for tasks
@@ -23,12 +24,16 @@ CSS3
 JavaScript (ES6+)
 Local Storage API
 Google Fonts
+
+
 🎯 Key Features Explained
 Priority Levels: Tasks can be assigned Low, Medium, or High priority, visually indicated by color-coded badges.
 Dark Mode: Easy on the eyes during nighttime usage.
 Progress Tracking: Visual progress bar shows the completion status of all tasks.
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 Data Persistence: Tasks are saved in the browser's local storage.
+
+
 🏗️ Setup and Usage
 Clone the repository:
 bash
@@ -36,6 +41,7 @@ Copy code
 git clone https://github.com/vikaskhandekar7083/my-todo-list-app.git
 Open index.html in your web browser.
 Or simply visit the live demo.
+
 
 💻 How to Use
 Add a task:
@@ -61,11 +67,13 @@ Use the search bar to filter tasks.
 Toggle dark mode:
 
 Click the "Dark Mode" button in the top-right corner.
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 📝 License
 This project is MIT licensed.
+
 
 👨‍💻 Author
 Vikas Khandekar
@@ -106,6 +114,8 @@ body {
 3. **Progress Tracking**: Visual progress bar shows completion status of all tasks
 4. **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 5. **Data Persistence**: Tasks are saved in browser's local storage
+
+
 
 ## 🏗️ Setup and Usage
 1. Clone the repository:
