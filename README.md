@@ -141,10 +141,10 @@ Or simply visit the [live demo](https://vikaskhandekar7083.github.io/my-todo-lis
    - Click the "Dark Mode" button in the top-right corner
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/vikaskhandekar7083/my-todo-list-app/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page for any current issues or to suggest new features.
 
 ## 📝 License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [DIT](https://choosealicense.com/licenses/dit/) licensed.
 
 ## 👨‍💻 Author
 **Vikas Khandekar**
