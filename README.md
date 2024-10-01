@@ -88,8 +88,10 @@ body {
 ⭐️ Star this repo if you like what you see! your GitHub Pages link when available -->
 
 ## 🖼️ Screenshots
-![Light Mode](https://via.placeholder.com/468x300?text=Light+Mode+Screenshot)
-![Dark Mode](https://via.placeholder.com/468x300?text=Dark+Mode+Screenshot)
+![Light Mode](![image](https://github.com/user-attachments/assets/91861fc3-8471-41d0-aefe-bd100fca4a7a)
+)
+![Dark Mode](![image](https://github.com/user-attachments/assets/856eb7b6-be33-43f6-86b8-b869cd532101)
+)
 
 ## 🛠️ Technologies Used
 - HTML5
