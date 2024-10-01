@@ -159,7 +159,7 @@ This project is [DIT](https://choosealicense.com/licenses/dit/) licensed.
 ## 👨‍💻 Author
 **Vikas Khandekar**
 - GitHub: [@vikaskhandekar7083](https://github.com/vikaskhandekar7083)
-- LinkedIn: [Vikas Khandekar](linkedin.com/in/vikas-khandekar-9233a9257)
+- LinkedIn: (linkedin.com/in/vikas-khandekar-9233a9257)
 
 ## 🙏 Acknowledgments
 - Icons: [Google Fonts](https://fonts.google.com/)
